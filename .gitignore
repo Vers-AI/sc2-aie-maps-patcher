@@ -1,0 +1,5 @@
+*.SC2Map
+*.SC2Mod
+patches/
+__pycache__/
+*.pyc
